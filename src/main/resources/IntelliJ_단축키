@@ -1,0 +1,54 @@
+[ IntelliJ 단축키 ]
+
+    1. 좌측 프로젝트
+      - 창 포커스 / 숨기기
+        MAC: Command + 1
+        WIN: Alt + 1
+      - 소스로 돌아오기
+        MAC/WIN: ESC
+      - 프로젝트 창 포커스 된 상태에서 Class 파일 미리보기
+        MAC/WIN : SpaceBar
+
+    2. 에디터 창
+      - 에디터 창 최대화
+        MAC: Command + Shift + F12
+        WIN: Ctrl + Shift + F12
+      - 에디터 탭 이동
+        MAC/WIN: Ctrl + Tab
+
+    3. 파일 생성
+      - 프로젝트 창 포커스 된 상태
+        MAC: Command + n
+        WIN: Alt + insert
+
+    4. 자동 줄맞춤
+     - 코드 전체 선택 후 ( Ctrl + A)
+        MAC: Ctrl + Option + I
+        WIN: Ctrl + Alt + I
+
+    5. 코드가 사용되는 곳 찾기
+      - 빠른 찾기 ( 해당 함수에 포커스 준 후)
+        MAC: Command + B
+        WIN: Ctrl + B
+        MAC/WIN : Ctrl + 클릭
+      - 찾기 (해당 함수에 포커스 준 후)
+        MAC : Option + F7
+        WIN: Alt + F7
+
+    6. 찾기
+      - 파일 내 찾기
+        MAC: Command + F
+        WIN: Ctrl + F
+      - 경로 내 검색
+        MAC: Command + Shift + F
+        WIN: Ctrl + Shift + F
+      - IntelliJ 기능 포함 찾기
+        MAC/WIN: Shift + Shift
+
+    7. 최근 열어본 파일
+        MAC: Command + E
+        WIN: Ctrl + E
+
+
+
+
