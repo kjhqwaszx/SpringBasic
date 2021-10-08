@@ -49,6 +49,42 @@
         MAC: Command + E
         WIN: Ctrl + E
 
+    8. 코드 자동완성
+      - public static void main : psvm
+      - System.out.println : sout
+      - 단축키 보기
+       MAC: Command + J
+       WIN: Ctrl + J
 
+    9. 퀵 픽스 ( 코드 고침 )
+        MAC: Option + Enter
+        WIN: Alt + Enter
+
+    10. 에러 코드로 이동
+        MAC/WIN: F2
+
+    11. Import 최적화 ( 사용안하는 것 제거 )
+        MAC: Ctrl + Option + O
+        WIN: Ctrl + Alt + O
+
+    12. 생성자 / Getter,Setter 자동생성
+        MAC: Command + N
+        WIN: Ctrl + N
+
+    13. 구문 자동완성 ( 괄호 닫고 ; 까지 붙여줌 )
+        MAC: Command + Shift + Enter
+        WIN: Ctrl + Shift + Enter
+
+    14. 문자 대체 ( Replace )
+      - 파일내 대체
+        MAC: Command + R
+        WIN: Ctrl + R
+      - 경로 내 대체( 페키지 )
+        MAC: Command + Shift + R
+        WIN: Ctrl + Shift + R
+
+    15. 함수 파라메터 확인
+        MAC: Command + P
+        WIN: Ctrl + P
 
 
